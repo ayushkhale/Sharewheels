@@ -1,0 +1,112 @@
+{
+    "colleges": [
+      {
+        "name": "Indian Institute of Technology Indore",
+        "location": "Simrol, Indore",
+        "address": "Khandwa - Indore Rd, Simrol, Madhya Pradesh",
+        "latitude": 22.6261,
+        "longitude": 75.8047
+      },
+      {
+        "name": "Prestige Institute of Engineering Management & Research",
+        "location": "Scheme 74 C, Vijay Nagar, Indore",
+        "address": "Scheme No 74C, Behind Prestige College, Indore, Madhya Pradesh",
+        "latitude": 22.7426,
+        "longitude": 75.8853
+      },
+      {
+        "name": "Medi-Caps University",
+        "location": "A.B. Road, Pigdamber, Rau, Indore",
+        "address": "A.B. Road, Pigdamber, Rau, Indore, Madhya Pradesh",
+        "latitude": 22.7391,
+        "longitude": 75.9364
+      },
+      {
+        "name": "Institute of Engineering and Technology, Devi Ahilya Vishwavidyalaya",
+        "location": "Khandwa Road, Indore",
+        "address": "Khandwa Road, Indore, Madhya Pradesh",
+        "latitude": 22.7324,
+        "longitude": 75.8614
+      },
+      {
+        "name": "Sanghvi Institute of Management & Science",
+        "location": "Pigdamber, Rau, Indore",
+        "address": "Pigdamber, Rau, Indore, Madhya Pradesh",
+        "latitude": 22.7627,
+        "longitude": 75.9266
+      },
+      {
+        "name": "Shri Govindram Seksaria Institute of Technology and Science",
+        "location": "23, Park Road, Indore",
+        "address": "23, Park Road, Indore, Madhya Pradesh",
+        "latitude": 22.7082,
+        "longitude": 75.8551
+      },
+      {
+        "name": "Institute of Business Management and Research",
+        "location": "IPS Academy, Rajendra Nagar, AB Road, Indore",
+        "address": "IPS Academy, Rajendra Nagar, AB Road, Indore, Madhya Pradesh",
+        "latitude": 22.7405,
+        "longitude": 75.8839
+      },
+      {
+        "name": "IPS Academy",
+        "location": "Rajendra Nagar, AB Road, Indore",
+        "address": "Rajendra Nagar, AB Road, Indore, Madhya Pradesh",
+        "latitude": 22.7385,
+        "longitude": 75.8909
+      },
+      {
+        "name": "Sri Aurobindo Institute of Medical Sciences",
+        "location": "Indore-Ujjain State Highway, Near MR-10 Crossing, Indore",
+        "address": "Indore-Ujjain State Highway, Near MR-10 Crossing, Indore, Madhya Pradesh",
+        "latitude": 22.7424,
+        "longitude": 75.8663
+      },
+      {
+        "name": "Holkar Science College",
+        "location": "Khandwa Road, Indore",
+        "address": "Khandwa Road, Indore, Madhya Pradesh",
+        "latitude": 22.7415,
+        "longitude": 75.8619
+      },
+      {
+        "name": "Government Holkar Science College",
+        "location": "Khandwa Road, Indore",
+        "address": "Khandwa Road, Indore, Madhya Pradesh",
+        "latitude": 22.7415,
+        "longitude": 75.8619
+      },
+      {
+        "name": "Maharaja Ranjit Singh College of Professional Sciences",
+        "location": "A.B. Road, Bhawrasla, Indore",
+        "address": "A.B. Road, Bhawrasla, Indore, Madhya Pradesh",
+        "latitude": 22.7589,
+        "longitude": 75.9074
+      },
+      {
+        "name": "Acropolis Institute of Technology and Research",
+        "location": "Mangliya, Indore",
+        "address": "Mangliya, Indore, Madhya Pradesh",
+        "latitude": 22.7565,
+        "longitude": 75.8835
+      },
+      {
+        "name": "Vidyasagar Institute of Management",
+        "location": "Krishnapura, Indore",
+        "address": "Krishnapura, Indore, Madhya Pradesh",
+        "latitude": 22.7192,
+        "longitude": 75.8578
+      },
+      {
+        "name": "Christian Eminent College",
+        "location": "Annapurna Road, Indore",
+        "address": "Annapurna Road, Indore, Madhya Pradesh",
+        "latitude": 22.7258,
+        "longitude": 75.8714
+      }
+    ]
+  }
+
+  
+  
